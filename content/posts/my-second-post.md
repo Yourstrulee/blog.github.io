@@ -1,7 +1,7 @@
 ---
 title: "Learning Experience Post"
 date: 2023-07-19T11:12:50+01:00
-draft: true
+draft: false
 ---
 
 My Learning Journey as a Beginner Web Developer
