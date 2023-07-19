@@ -1,5 +1,5 @@
 ---
-title: "Learning Experience Post"
+title: "Learning Experience"
 date: 2023-07-19T11:12:50+01:00
 draft: false
 ---
