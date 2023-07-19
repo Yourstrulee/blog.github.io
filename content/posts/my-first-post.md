@@ -1,7 +1,7 @@
 ---
 title: "Beginner experience"
 date: 2023-07-19T10:29:59+01:00
-draft: false
+draft: true
 ---
 My Learning Journey as a Beginner Web Developer
 
